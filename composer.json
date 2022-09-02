@@ -21,7 +21,7 @@
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "guzzlehttp/guzzle": "^7.4.2"
+        "guzzlehttp/guzzle": "^7.4.5"
     },
     "require-dev": {
         "phpdocumentor/phpdocumentor": "dev-master",
